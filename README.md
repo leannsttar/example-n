@@ -1,5 +1,9 @@
 npm install @nestjs/cli --save-dev
+
+
 npx nest new my-project
+
+
 npm run start:dev
 
 <p align="center">
